@@ -29,6 +29,9 @@ Then, the processed data will be transferred to the ILI9341 display controller i
 
 <img width="1463" height="767" alt="Screenshot 2026-06-05 230743" src="https://github.com/user-attachments/assets/3d4b17c4-9c99-488c-b27b-d18fad9a4fab" />
 
+<img width="1187" height="702" alt="image" src="https://github.com/user-attachments/assets/8d2a4d1a-e517-445b-b061-103d02019563" />
+
+
 **Public Link: https://a360.co/4dSKmTr**
 
 # The Wiring
