@@ -36,7 +36,9 @@ Then, the processed data will be transferred to the ILI9341 display controller i
 
 # The Wiring
 
-<img width="2338" height="1654" alt="Schematic_SpotiFi_2026-06-07" src="https://github.com/user-attachments/assets/6174e1d1-a7b1-4959-b881-5997292947c1" />
+<img width="1169" height="827" alt="Schematic_SpotiFi_2026-06-15" src="https://github.com/user-attachments/assets/ea48272f-68fe-46dd-a757-3b10fa912283" />
+
+EasyEDA Link: https://easyeda.com/editor#project_id=699845724ab2404091f892d3d4bc927d
 
 
 
