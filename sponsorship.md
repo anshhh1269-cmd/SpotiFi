@@ -16,29 +16,49 @@ website; it consists of many options for 3D Printing along with matte paint and 
 
 <img width="1837" height="837" alt="image" src="https://github.com/user-attachments/assets/c1331d79-1bc7-4024-8d39-b4f74f239660" />
 
+
 **The Approval**: A good thing from Justway is that the 3D Printing job is looked at before it has been ordered for any
 problems; and when it's approved, the user can then only order the job. 
 
 <img width="1832" height="802" alt="image" src="https://github.com/user-attachments/assets/7faed2d2-b966-4b89-8337-5f8134562663" />
+
 
 **The Shipping**: Justway has multiple pages for production, delivery, and completed pages for better user interaction
 and better control.
 
 # The Unboxing
 
+**The Packaging**: The product was safely packed under many layers when received. It was packed under a box from JustWay, secured with bubble wrap and cardboard. 
+
+<img width="3024" height="4032" alt="IMG_5613" src="https://github.com/user-attachments/assets/1d52ca9c-e3f0-47c8-84ae-64053ec71659" />
+
+<img width="3024" height="4032" alt="IMG_5614" src="https://github.com/user-attachments/assets/11e52679-882b-40cc-92b0-b5d7433a1dec" />
+
+
+
+**The Product Images**: 
+
+<img width="3024" height="4032" alt="IMG_5618" src="https://github.com/user-attachments/assets/69468ecc-1a81-4574-98ff-9d92e4c18629" />
+
+<img width="3024" height="4032" alt="IMG_5620" src="https://github.com/user-attachments/assets/f6716841-ed9a-4876-89ad-d8799e406b2a" />
+
+<img width="3024" height="4032" alt="IMG_5621" src="https://github.com/user-attachments/assets/ddc0ff67-d810-4ca2-9d93-6d82bc048826" />
+
+<img width="3024" height="4032" alt="IMG_5623" src="https://github.com/user-attachments/assets/54db4169-ff8c-4b4f-96fe-cf3d5e595980" />
+
+<img width="3024" height="4032" alt="IMG_5627" src="https://github.com/user-attachments/assets/c977bf97-00c9-48a6-b095-3b0bb8775913" />
+
+<img width="3024" height="4032" alt="IMG_5625 (1)" src="https://github.com/user-attachments/assets/68fa4a48-80b8-4af9-8774-d07bd017acb8" />
 
 
 ## Dimensions and Precisions
 
 One of the most important aspects of this project was achieving accurate dimensions, as every component inside the enclosure had to fit precisely without requiring major modifications. The USB opening was 
-printed with excellent accuracy, allowing the USB connector to align perfectly with the ESP32's port. This ensured that the device could be charged and programmed easily while maintaining a clean exterior. The back
-cover also fit the main body precisely. The mating surfaces aligned well, creating a secure and professional fit without noticeable gaps or excessive force during assembly.
+printed with excellent accuracy, allowing the USB connector to align perfectly with the ESP32's port. This ensured that the device could be charged and programmed easily while maintaining a clean exterior. The back cover also fit the main body precisely. The mating surfaces aligned well, creating a secure and professional fit without noticeable gaps or excessive force during assembly.
 
 Another critical feature was the cutouts for the mechanical keyboard switches. These openings were manufactured with high dimensional accuracy, allowing the switches to fit properly and remain 
-firmly seated in the enclosure. This minimized the need for sanding or additional adjustments before assembly.
+firmly seated in the enclosure. 
 
-Overall, the printed parts demonstrated good dimensional precision and consistency, making the assembly process straightforward. The accurate tolerances significantly reduced manual rework and 
-helped ensure that the final product matched the original CAD design as closely as possible.
 
 <img width="3024" height="4032" alt="IMG_5591" src="https://github.com/user-attachments/assets/d02edfe4-0376-4a1c-8257-14d79a752483" />
 
@@ -53,9 +73,6 @@ the ESP32, TFT display, battery, mechanical keyboard switches, and other electro
 
 Throughout this project, JUSTWAY provided a smooth and user-friendly manufacturing experience. Uploading the CAD files and placing the order was straightforward, making the process accessible even 
 for a student working on a personal engineering project.
-
-The printed parts exhibited excellent dimensional accuracy, with features such as the USB opening, mechanical switch cutouts, and the back cover fitting precisely as designed. The surface finish was 
-clean, and the packaging protected all parts well during shipping.
 
 Communication with the JUSTWAY team was also professional and responsive. Whenever I had questions regarding my order, they replied promptly and were willing to help resolve any issues.
 
