@@ -21,6 +21,10 @@ The ESP32 device will connect to the local Wi-Fi network of your home and use th
 
 Then, the processed data will be transferred to the ILI9341 display controller in order to update the text and graphics on the screen. When you press any of the physical buttons, a reverse command will be sent to the Spotify server through the corresponding GPIO input.
 
+# 3D Model Sponsorship 
+
+My 3D Model was carefully and accurately printed as a sponsorship from JUSTWAY. The process of ordering and the details of the shipping made this ordering pretty easy. To look at my actual printed 3D enclosure and more info, please click the link. **[Sponsorship Info :) ](https://github.com/anshhh1269-cmd/SpotiFi/blob/main/sponsorship.md)**
+
 # The 3D Model
 
 <img width="1350" height="737" alt="image" src="https://github.com/user-attachments/assets/5c7360f4-011d-4415-b2c5-eb6379cba8a4" />
