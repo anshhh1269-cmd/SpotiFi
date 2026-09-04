@@ -1,3 +1,26 @@
+# 2026-08-24: time for the three switchess
+
+**Total time spent: 1.2 hours**
+
+aight so now the clay thing from last time was def not working cause it was kinda conducting but it was slipping out whenever put in a cramped position so i thought and thought...andd 
+HOTT GLUE came in my mind why not hot glue the female header pins directly to the base of the switches it wont move that easily even when positioned a lot or 
+its position is changed many times
+
+so i hot glued three switches meaning six header wires did take some time cause hot glue is kinda messy but then it was stuck perfectly..moving onto the problem of connecting the three 
+gnd wires to one GND pin on the esp32..now solder wasnt working out for me so i basically had to get **creative** again and again..so i had an idea of those three gnd wires im gonna 
+scrape the end and expose the copper
+
+then the expose copper can be layered onto the pin of the esp32 but one thing was it could come off again..and then on my table those circle stickers were kept which had glue on the other side;
+so i took out one cut it into a small piece and then put the glue tape on both the sides of the gnd pin of the esp and then just stick it..and then i used those tightening wires and then 
+it kinda worked dont knowif it will come out but temporary fix :)
+
+thats it for tdy :)
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-04 at 23 38 32" src="https://github.com/user-attachments/assets/d6ed51ae-c7e4-4820-8e75-d8d026b3dc2a" />
+
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-04 at 23 38 32 (1)" src="https://github.com/user-attachments/assets/21a4f642-f029-4c4f-99bd-6954af1f30bc" />
+
 # 2026-08-22: the wiring
 
 **Total time spent: 0.67 hours**
